@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2020-10-09T15:29:23+00:00</lastmod>
+    <loc>https://congmei86.github.io/about/</loc>
+    <lastmod>2020-10-09T15:40:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-10-09T15:29:23+00:00</lastmod>
+    <loc>https://congmei86.github.io/</loc>
+    <lastmod>2020-10-09T15:40:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hello-world/</loc>
-    <lastmod>2020-10-09T15:29:23+00:00</lastmod>
+    <loc>https://congmei86.github.io/posts/hello-world/</loc>
+    <lastmod>2020-10-09T15:40:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2020-10-09T15:29:23+00:00</lastmod>
+    <loc>https://congmei86.github.io/posts/</loc>
+    <lastmod>2020-10-09T15:40:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/my-first-post/</loc>
-    <lastmod>2020-10-09T15:29:23+00:00</lastmod>
+    <loc>https://congmei86.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-10-09T15:40:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://congmei86.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://congmei86.github.io/tags/</loc>
   </url>
   
 </urlset>
