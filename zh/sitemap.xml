@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://congmei86.github.io/about/</loc>
+    <lastmod>2020-10-09T22:24:41+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://congmei86.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://congmei86.github.io/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://congmei86.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/</loc>
+    <lastmod>2020-10-09T22:24:41+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://congmei86.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://congmei86.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://congmei86.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/posts/hello-world/</loc>
+    <lastmod>2020-10-09T22:24:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/posts/</loc>
+    <lastmod>2020-10-09T22:24:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-10-09T22:24:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/tags/</loc>
+  </url>
+  
+</urlset>

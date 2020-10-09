@@ -7,23 +7,23 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
+        <title>Cong&#39;s Bolg</title>
         <link>https://congmei86.github.io/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <description>这是 Mei Cong 的生活与技术博客！</description>
         <generator>Hugo 0.76.3 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>cong.mei86@gmail.com (CongMei)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>cong.mei86@gmail.com (CongMei)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 09 Oct 2020 16:36:48 &#43;0000</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2020 20:26:11 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://congmei86.github.io/rss.xml" />
         
@@ -34,7 +34,7 @@
                 <guid isPermaLink="true">https://congmei86.github.io/posts/hello-world/</guid>
                 <pubDate>Fri, 09 Oct 2020 01:14:53 &#43;0200</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>cong.mei86@gmail.com (CongMei)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
@@ -58,7 +58,7 @@
                 <guid isPermaLink="true">https://congmei86.github.io/posts/my-first-post/</guid>
                 <pubDate>Fri, 09 Oct 2020 01:10:59 &#43;0200</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>cong.mei86@gmail.com (CongMei)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
