@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Cong&#39;s Bolg</title>
     <subtitle type="html">这是 Mei Cong 的生活与技术博客！</subtitle>
-    <updated>2020-10-10T07:55:34&#43;00:00</updated>
+    <updated>2020-10-12T20:26:45&#43;00:00</updated>
     <id>https://congmei86.github.io/</id>
     <link rel="alternate" type="text/html" href="https://congmei86.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://congmei86.github.io/atom.xml" />
@@ -16,6 +16,40 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.76.3">Hugo</generator>
+        <entry>
+            <title type="text">New Post</title>
+            <link rel="alternate" type="text/html" href="https://congmei86.github.io/posts/new-post/" />
+            <id>https://congmei86.github.io/posts/new-post/</id>
+            <updated>2020-10-12T22:18:21&#43;02:00</updated>
+            <published>2020-10-11T17:43:25&#43;02:00</published>
+            <author>
+                    <name>CongMei</name>
+                    <uri>https://wuhansaveeu.com/</uri>
+                    <email>cong.mei86@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">###是我 *还是我 &amp;quot;现在是谁？&amp;quot; ... ganjue youdian qiguai weisha xianzai</summary>
+            
+                <content type="html">&lt;p&gt;###是我
+*还是我
+&amp;quot;现在是谁？&amp;quot;
+...
+ganjue youdian qiguai
+weisha xianzai
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/congmei86/my_images@main/BlogImages/2020-10-12-22-12-35.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://congmei86.github.io/posts/hello-world/" />

@@ -12,7 +12,7 @@
         <description>Blog of reuixiy in Deutsch.</description>
         <generator>Hugo 0.76.3 https://gohugo.io/</generator>
         
-            <language>de-DE</language>
+            <language>de-de</language>
         
         
             <managingEditor>cong.mei86@gmail.com (CongMei)</managingEditor>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)</copyright>
         
-        <lastBuildDate>Sat, 10 Oct 2020 07:55:34 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2020 20:26:45 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://congmei86.github.io/de/rss.xml" />
         

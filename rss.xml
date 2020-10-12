@@ -23,10 +23,41 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 10 Oct 2020 07:55:34 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2020 20:26:45 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://congmei86.github.io/rss.xml" />
         
+        
+            <item>
+                <title>New Post</title>
+                <link>https://congmei86.github.io/posts/new-post/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/new-post/</guid>
+                <pubDate>Sun, 11 Oct 2020 17:43:25 &#43;0200</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;###是我
+*还是我
+&amp;quot;现在是谁？&amp;quot;
+...
+ganjue youdian qiguai
+weisha xianzai
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/congmei86/my_images@main/BlogImages/2020-10-12-22-12-35.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Hello World</title>
