@@ -23,10 +23,34 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 13 Oct 2020 21:59:20 &#43;0000</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2020 10:35:44 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://congmei86.github.io/rss.xml" />
         
+        
+            <item>
+                <title>New Post</title>
+                <link>https://congmei86.github.io/posts/new-post/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/new-post/</guid>
+                <pubDate>Wed, 14 Oct 2020 12:34:20 &#43;0200</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>workflow for writing my blog</title>
