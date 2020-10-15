@@ -23,63 +23,16 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 15 Oct 2020 22:44:03 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2020 22:47:20 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://congmei86.github.io/rss.xml" />
         
         
             <item>
-                <title>workflow for writing my blog</title>
-                <link>https://congmei86.github.io/posts/everday-is-a-new-day/</link>
-                <guid isPermaLink="true">https://congmei86.github.io/posts/everday-is-a-new-day/</guid>
-                <pubDate>Tue, 13 Oct 2020 22:49:42 &#43;0800</pubDate>
-                
-                    <author>cong.mei86@gmail.com (CongMei)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;h3 id=&#34;练习下markdown的语法并且思考下我的书学流程&#34;&gt;练习下Markdown的语法并且思考下我的书学流程&lt;/h3&gt;
-&lt;p&gt;这样一个博客的地方，是一种我对外的宣告，也是对自身习惯的声明。自高中之后我书写下自己想法的机会越来越少了。很多藏在脑袋里面的想法最后已在几天之后不再被记起。&lt;/p&gt;
-&lt;p&gt;坚持一种习惯似乎对现在的我来说是奢侈？于是乎现在这里留下对我博客里面文章大体行文结构做个预想。&lt;/p&gt;
-&lt;p&gt;我想写的就是我自己，对我相求了解，想去思考，想去实践的事物在脑海中规划出来一块地方好好保存的策略。&lt;/p&gt;
-&lt;p&gt;首先要说到的是：家。统领全局的概念，人际关系的盘根错节，区域和各式各样物件的储存和使用可以构建各种复杂的系统。在对此进行的操作又是对人来说最为熟悉的概念。&lt;/p&gt;
-&lt;p&gt;一下就是我将这个外界的事物进行概况的方式&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如何进行归档，存放，&lt;/li&gt;
-&lt;li&gt;我在何种情况下使用&lt;/li&gt;
-&lt;li&gt;他处理此项事务时候的特点&lt;/li&gt;
-&lt;li&gt;它使用时候注意事项&lt;/li&gt;
-&lt;li&gt;他解决了我哪些感到棘手的问题&lt;/li&gt;
-&lt;li&gt;我在何种状况下将不能使用它&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;这个是一个初步的想法，我预计会用这样的行文逻辑来组织我的下一篇博文。&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://congmei86.github.io/tags/blog/">Blog</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
                 <title>BruderEins kick off meeting</title>
                 <link>https://congmei86.github.io/posts/first-meeting/</link>
                 <guid isPermaLink="true">https://congmei86.github.io/posts/first-meeting/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <pubDate>Thu, 15 Oct 2020 23:34:20 &#43;0200</pubDate>
                 
                     <author>cong.mei86@gmail.com (CongMei)</author>
                 
@@ -141,6 +94,53 @@
                                 
                                 
                                     <category domain="https://congmei86.github.io/tags/brudereins/">BruderEins</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>workflow for writing my blog</title>
+                <link>https://congmei86.github.io/posts/everday-is-a-new-day/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/everday-is-a-new-day/</guid>
+                <pubDate>Tue, 13 Oct 2020 22:49:42 &#43;0800</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;练习下markdown的语法并且思考下我的书学流程&#34;&gt;练习下Markdown的语法并且思考下我的书学流程&lt;/h3&gt;
+&lt;p&gt;这样一个博客的地方，是一种我对外的宣告，也是对自身习惯的声明。自高中之后我书写下自己想法的机会越来越少了。很多藏在脑袋里面的想法最后已在几天之后不再被记起。&lt;/p&gt;
+&lt;p&gt;坚持一种习惯似乎对现在的我来说是奢侈？于是乎现在这里留下对我博客里面文章大体行文结构做个预想。&lt;/p&gt;
+&lt;p&gt;我想写的就是我自己，对我相求了解，想去思考，想去实践的事物在脑海中规划出来一块地方好好保存的策略。&lt;/p&gt;
+&lt;p&gt;首先要说到的是：家。统领全局的概念，人际关系的盘根错节，区域和各式各样物件的储存和使用可以构建各种复杂的系统。在对此进行的操作又是对人来说最为熟悉的概念。&lt;/p&gt;
+&lt;p&gt;一下就是我将这个外界的事物进行概况的方式&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如何进行归档，存放，&lt;/li&gt;
+&lt;li&gt;我在何种情况下使用&lt;/li&gt;
+&lt;li&gt;他处理此项事务时候的特点&lt;/li&gt;
+&lt;li&gt;它使用时候注意事项&lt;/li&gt;
+&lt;li&gt;他解决了我哪些感到棘手的问题&lt;/li&gt;
+&lt;li&gt;我在何种状况下将不能使用它&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这个是一个初步的想法，我预计会用这样的行文逻辑来组织我的下一篇博文。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/blog/">Blog</category>
                                 
                             
                         

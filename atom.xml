@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Cong&#39;s Bolg</title>
     <subtitle type="html">这是 Mei Cong 的生活与技术博客！</subtitle>
-    <updated>2020-10-15T22:44:03&#43;00:00</updated>
+    <updated>2020-10-15T22:47:20&#43;00:00</updated>
     <id>https://congmei86.github.io/</id>
     <link rel="alternate" type="text/html" href="https://congmei86.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://congmei86.github.io/atom.xml" />
@@ -17,61 +17,11 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.76.3">Hugo</generator>
         <entry>
-            <title type="text">workflow for writing my blog</title>
-            <link rel="alternate" type="text/html" href="https://congmei86.github.io/posts/everday-is-a-new-day/" />
-            <id>https://congmei86.github.io/posts/everday-is-a-new-day/</id>
-            <updated>2020-10-13T23:51:35&#43;02:00</updated>
-            <published>2020-10-13T22:49:42&#43;08:00</published>
-            <author>
-                    <name>CongMei</name>
-                    <uri>https://wuhansaveeu.com/</uri>
-                    <email>cong.mei86@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">练习下Markdown的语法并且思考下我的书学流程 这样一个博客的地方，是一种我对外的……</summary>
-            
-                <content type="html">&lt;h3 id=&#34;练习下markdown的语法并且思考下我的书学流程&#34;&gt;练习下Markdown的语法并且思考下我的书学流程&lt;/h3&gt;
-&lt;p&gt;这样一个博客的地方，是一种我对外的宣告，也是对自身习惯的声明。自高中之后我书写下自己想法的机会越来越少了。很多藏在脑袋里面的想法最后已在几天之后不再被记起。&lt;/p&gt;
-&lt;p&gt;坚持一种习惯似乎对现在的我来说是奢侈？于是乎现在这里留下对我博客里面文章大体行文结构做个预想。&lt;/p&gt;
-&lt;p&gt;我想写的就是我自己，对我相求了解，想去思考，想去实践的事物在脑海中规划出来一块地方好好保存的策略。&lt;/p&gt;
-&lt;p&gt;首先要说到的是：家。统领全局的概念，人际关系的盘根错节，区域和各式各样物件的储存和使用可以构建各种复杂的系统。在对此进行的操作又是对人来说最为熟悉的概念。&lt;/p&gt;
-&lt;p&gt;一下就是我将这个外界的事物进行概况的方式&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如何进行归档，存放，&lt;/li&gt;
-&lt;li&gt;我在何种情况下使用&lt;/li&gt;
-&lt;li&gt;他处理此项事务时候的特点&lt;/li&gt;
-&lt;li&gt;它使用时候注意事项&lt;/li&gt;
-&lt;li&gt;他解决了我哪些感到棘手的问题&lt;/li&gt;
-&lt;li&gt;我在何种状况下将不能使用它&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;这个是一个初步的想法，我预计会用这样的行文逻辑来组织我的下一篇博文。&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://congmei86.github.io/tags/blog/" term="Blog" label="Blog" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
             <title type="text">BruderEins kick off meeting</title>
             <link rel="alternate" type="text/html" href="https://congmei86.github.io/posts/first-meeting/" />
             <id>https://congmei86.github.io/posts/first-meeting/</id>
-            <updated>2020-10-16T00:43:22&#43;02:00</updated>
-            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <updated>2020-10-16T00:46:43&#43;02:00</updated>
+            <published>2020-10-15T23:34:20&#43;02:00</published>
             <author>
                     <name>CongMei</name>
                     <uri>https://wuhansaveeu.com/</uri>
@@ -135,6 +85,56 @@
                             
                             
                                 <category scheme="https://congmei86.github.io/tags/brudereins/" term="BruderEins" label="BruderEins" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">workflow for writing my blog</title>
+            <link rel="alternate" type="text/html" href="https://congmei86.github.io/posts/everday-is-a-new-day/" />
+            <id>https://congmei86.github.io/posts/everday-is-a-new-day/</id>
+            <updated>2020-10-13T23:51:35&#43;02:00</updated>
+            <published>2020-10-13T22:49:42&#43;08:00</published>
+            <author>
+                    <name>CongMei</name>
+                    <uri>https://wuhansaveeu.com/</uri>
+                    <email>cong.mei86@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">练习下Markdown的语法并且思考下我的书学流程 这样一个博客的地方，是一种我对外的……</summary>
+            
+                <content type="html">&lt;h3 id=&#34;练习下markdown的语法并且思考下我的书学流程&#34;&gt;练习下Markdown的语法并且思考下我的书学流程&lt;/h3&gt;
+&lt;p&gt;这样一个博客的地方，是一种我对外的宣告，也是对自身习惯的声明。自高中之后我书写下自己想法的机会越来越少了。很多藏在脑袋里面的想法最后已在几天之后不再被记起。&lt;/p&gt;
+&lt;p&gt;坚持一种习惯似乎对现在的我来说是奢侈？于是乎现在这里留下对我博客里面文章大体行文结构做个预想。&lt;/p&gt;
+&lt;p&gt;我想写的就是我自己，对我相求了解，想去思考，想去实践的事物在脑海中规划出来一块地方好好保存的策略。&lt;/p&gt;
+&lt;p&gt;首先要说到的是：家。统领全局的概念，人际关系的盘根错节，区域和各式各样物件的储存和使用可以构建各种复杂的系统。在对此进行的操作又是对人来说最为熟悉的概念。&lt;/p&gt;
+&lt;p&gt;一下就是我将这个外界的事物进行概况的方式&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如何进行归档，存放，&lt;/li&gt;
+&lt;li&gt;我在何种情况下使用&lt;/li&gt;
+&lt;li&gt;他处理此项事务时候的特点&lt;/li&gt;
+&lt;li&gt;它使用时候注意事项&lt;/li&gt;
+&lt;li&gt;他解决了我哪些感到棘手的问题&lt;/li&gt;
+&lt;li&gt;我在何种状况下将不能使用它&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这个是一个初步的想法，我预计会用这样的行文逻辑来组织我的下一篇博文。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://congmei86.github.io/tags/blog/" term="Blog" label="Blog" />
                             
                         
                     
