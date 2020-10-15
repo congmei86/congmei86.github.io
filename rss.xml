@@ -23,34 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 14 Oct 2020 10:35:44 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2020 22:44:03 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://congmei86.github.io/rss.xml" />
         
-        
-            <item>
-                <title>New Post</title>
-                <link>https://congmei86.github.io/posts/new-post/</link>
-                <guid isPermaLink="true">https://congmei86.github.io/posts/new-post/</guid>
-                <pubDate>Wed, 14 Oct 2020 12:34:20 &#43;0200</pubDate>
-                
-                    <author>cong.mei86@gmail.com (CongMei)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description></description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
             <item>
                 <title>workflow for writing my blog</title>
@@ -92,6 +68,79 @@
                                 
                                 
                                     <category domain="https://congmei86.github.io/tags/blog/">Blog</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>BruderEins kick off meeting</title>
+                <link>https://congmei86.github.io/posts/first-meeting/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/first-meeting/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;第一次碰头的记录&#34;&gt;第一次碰头的记录&lt;/h1&gt;
+&lt;p&gt;今天以菠萝包之名开启了BruderEins的第一次会谈，大家都聊得非常的愉快，并把各自对这个项目的一些零零碎碎的想法相互交流了一番。我也因此在这里做一些简单的记录。&lt;/p&gt;
+&lt;p&gt;本项目现在所处阶段：分析调研&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;中国市场此类业务的可行性分析，德国市场分析&lt;/li&gt;
+&lt;li&gt;用户画像的分析：即目标用户群体的概括和特点分析&lt;/li&gt;
+&lt;li&gt;使用此项服务和产品给用户带来的价值分析&lt;/li&gt;
+&lt;li&gt;此业务的商业目标和盈利模式总结&lt;/li&gt;
+&lt;li&gt;同类型已经上线的其他项目的课程和APP交互资料即竞品分析&lt;/li&gt;
+&lt;li&gt;可调度的资源和困难性预估，并研究宏观发展战略&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在核心竞争力的来源：交互型课程的设计上应该对其提出的需求&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;语言类课程相应Level的内容和流程需达到专业教育人员的预期&lt;/li&gt;
+&lt;li&gt;在交互性上与市面上产品相比有明显的差异化优势&lt;/li&gt;
+&lt;li&gt;课程需预先测试和效果回馈&lt;/li&gt;
+&lt;li&gt;小语种类课程设计需针对国内市场用户的实际迫切需求&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;客户端即服务端项目上线后需考虑的问题&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;支付接口及工资结算&lt;/li&gt;
+&lt;li&gt;教育类资质是否符合中德有关规定&lt;/li&gt;
+&lt;li&gt;线上课程的过程监控逻辑和算法&lt;/li&gt;
+&lt;li&gt;服务器安全防护&lt;/li&gt;
+&lt;li&gt;数据库优化和健壮性&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;现阶段任务分配：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;课程内容的初步设想和相关人员联络&lt;/li&gt;
+&lt;li&gt;所涉及的技术性问题关键词罗列&lt;/li&gt;
+&lt;li&gt;提出有针对性的产品构架方案&lt;/li&gt;
+&lt;li&gt;营销策略的确定&lt;/li&gt;
+&lt;li&gt;广告形式和社交媒体账户的运营&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;先记录这么多。大家可以看看&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/arkit/">ARkit</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/brudereins/">BruderEins</category>
                                 
                             
                         

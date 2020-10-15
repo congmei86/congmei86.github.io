@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://congmei86.github.io/tags/blog/</loc>
+    <lastmod>2020-10-13T23:51:35+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://congmei86.github.io/</loc>
-    <lastmod>2020-10-14T12:34:41+02:00</lastmod>
+    <lastmod>2020-10-16T00:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,23 +28,13 @@
   </url>
   
   <url>
-    <loc>https://congmei86.github.io/posts/new-post/</loc>
-    <lastmod>2020-10-14T12:34:41+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://congmei86.github.io/posts/</loc>
-    <lastmod>2020-10-14T12:34:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://congmei86.github.io/tags/blog/</loc>
-    <lastmod>2020-10-13T23:51:35+02:00</lastmod>
+    <lastmod>2020-10-16T00:43:22+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://congmei86.github.io/tags/</loc>
-    <lastmod>2020-10-13T23:51:35+02:00</lastmod>
+    <lastmod>2020-10-16T00:43:22+02:00</lastmod>
   </url>
   
   <url>
@@ -65,6 +60,21 @@
                 hreflang="zh"
                 href="https://congmei86.github.io/about/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/tags/arkit/</loc>
+    <lastmod>2020-10-16T00:43:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/tags/brudereins/</loc>
+    <lastmod>2020-10-16T00:43:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://congmei86.github.io/posts/first-meeting/</loc>
+    <lastmod>2020-10-16T00:43:22+02:00</lastmod>
   </url>
   
   <url>
