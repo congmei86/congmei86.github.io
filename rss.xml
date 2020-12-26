@@ -23,10 +23,272 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 15 Oct 2020 22:47:20 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2020 23:02:47 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://congmei86.github.io/rss.xml" />
         
+        
+            <item>
+                <title>New Post</title>
+                <link>https://congmei86.github.io/posts/new-post/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/new-post/</guid>
+                <pubDate>Tue, 03 Nov 2020 08:53:13 &#43;0100</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;新的&#34;&gt;新的&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/congmei86/my_images@main/BlogImages/2020-12-26-16-58-23.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;这是水水水&lt;/li&gt;
+&lt;li&gt;瓦窑啥啥啊&lt;/li&gt;
+&lt;li&gt;333&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;这个是我想说的沙沙话&#34;&gt;这个是我想说的沙沙话&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/congmei86/my_images@main/BlogImages/2020-12-26-16-59-37.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>框架记忆学习的方法</title>
+                <link>https://congmei86.github.io/posts/new-learningway/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/new-learningway/</guid>
+                <pubDate>Sun, 01 Nov 2020 09:52:04 &#43;0100</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;近期需要对一些知识框架进行记忆。
+比如软件测试认证ISTQB大纲的记忆。
+今天想到了些高效的记忆方法&lt;/p&gt;
+&lt;p&gt;所需工具：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;XMind思维导图软件&lt;/li&gt;
+&lt;li&gt;Word编辑软件&lt;/li&gt;
+&lt;li&gt;IOS上NaturalReader&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;将需要熟记的内容编辑为思维导图软件，导出为md 然后放入notion中导出为pdf进行朗读
+将朗读的内容不断记忆回溯，然后尝试自己将理解讲述出来。
+最后制作成音频或者屏幕录播放到网上以作留存。
+每次记忆的内容以15分钟的9倍速朗读为其篇幅。1w字&lt;/p&gt;
+&lt;p&gt;早上听了将近50分钟的昨天已掌握的内容，感觉边听可以边回忆起此知识点具体在哪一行并且接下来会出现什么内容。对于知识框架的掌握效率来说昨天比较前几天已经提高不少。接下来看看今天的效果如何，就在第四章节和第五章节的内容上下一番功夫，现在是德国时间早上9点。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/learning/">learning</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/remember/">remember</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Embedded Systems</title>
+                <link>https://congmei86.github.io/posts/embeded/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/embeded/</guid>
+                <pubDate>Sat, 31 Oct 2020 20:35:48 &#43;0200</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;今天一天的一些感想&#34;&gt;今天一天的一些感想&lt;/h1&gt;
+&lt;p&gt;早上起来就开始翻看了几个招聘信息，感叹了一番如果我现在身怀ISQTB证书的话可能会收获更多一些的面试机会，再或者把Python、Linux、SQL还有JAVA和JS的面试题目再多刷刷可以尝试下韩硕科技的技术面试。还有四天后Betrandt电动系统方向的电话面试我或许需要把材料好好整理一番了。当然还有Django的电商平台，BruderEins的视频语言教育平台，HUGO博客Golang的web template编程学习。&lt;/p&gt;
+&lt;p&gt;一大堆纷繁的内容还等着我，我得为我的每一个小时做出应对的方向。
+需要紧紧抓住的内容就是我本身的专业自动驾驶及IOT智能硬件，不得不说嵌入式系统是不可能绕过去。
+然而这些项目在现如今这个疫情状况下都因为是锦上添花而对公司而言是无关紧要。保持现在项目有序进行下去的必须岗位还是诸如技术支持、测试人员和运维人员。&lt;/p&gt;
+&lt;p&gt;对于我自己来说，电商平台、在线教育软硬件平台是工作室的基础项目。
+对于面试来说，ISQTB和python，java，Linux，计算机网络和SQL是必选项。
+加紧时间通过测试人员证书以及AWS云软件认证是至关重要的。之后在深化C/C++的嵌入式开发及其设计模式。&lt;/p&gt;
+&lt;p&gt;突然有点时不我待的感觉，接下来就是自己的两个项目和技能与面试材料的准备了。每天的总时长现在数了数9个小时，加上回顾整天学习的2个半小时，以及在线听课的4个小时，每天投入到自身培养的时间是15个半小时。如何能保证这些时间确实的付诸于实际行动？番茄时钟？
+小柠檬锻炼时间4小时，9个番茄时钟；早晨8个番茄时钟；下午7个番茄时钟，晚上7个番茄时钟.这些时间的设计现在我得列个表了。&lt;/p&gt;
+&lt;p&gt;ISTQB证书复习内容没有被编辑进来，很明显，萌萌下午运动的2小时和之后到20：30的时间必须规划出来给ISTQB证书的练习内容。
+整个内容我都希望能用思维导图的形式进行笔记的记录。
+之前有个麦子物联网的思维导图终结方法看起来还不错。现在我来想想怎么运用到我日常的积累上去。
+思维导图的规则
+分阶段，想好知识框架&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/embedded-systems/">Embedded Systems</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/iot/">IoT</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>alibaba Java Easy Coding first Chapter</title>
+                <link>https://congmei86.github.io/posts/java_coding/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/java_coding/</guid>
+                <pubDate>Sun, 18 Oct 2020 14:35:48 &#43;0200</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;一生二至万物，即计算机的本质。将计算机基础抽象为家？得好好的思考一下了。&lt;/p&gt;
+&lt;h2 id=&#34;0与1的世界&#34;&gt;0与1的世界&lt;/h2&gt;
+&lt;p&gt;这里我只能把CPU类比为一个遮住眼睛，随手有个小本可以刻孔的专注于盲文记账的大神了。他的屋子与世隔绝，32条盲文传输带就代表可能出现在大神面前的$2^{32}$
+$$
+\ce{SO4^2- + Ba^2+ -&amp;gt; BaSO4 v}//
+\ce{^{227}_{90}Th+}
+$$&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-flow&#34; data-lang=&#34;flow&#34;&gt;st=&amp;gt;start: Start
+op=&amp;gt;operation: Your Operation
+cond=&amp;gt;condition: Yes or No?
+e=&amp;gt;end
+st-&amp;gt;op-&amp;gt;cond
+cond(yes)-&amp;gt;e
+cond(no)-&amp;gt;op
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;​&lt;code&gt;mermaid graph TD A --&amp;gt; B ​&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;浮点数&#34;&gt;浮点数&lt;/h2&gt;
+&lt;h3 id=&#34;科学计数法&#34;&gt;科学计数法&lt;/h3&gt;
+&lt;h3 id=&#34;浮点数表示&#34;&gt;浮点数表示&lt;/h3&gt;
+&lt;h3 id=&#34;加减运算&#34;&gt;加减运算&lt;/h3&gt;
+&lt;h3 id=&#34;浮点数使用&#34;&gt;浮点数使用&lt;/h3&gt;
+&lt;h2 id=&#34;字符集与乱码&#34;&gt;字符集与乱码&lt;/h2&gt;
+&lt;h2 id=&#34;cpu与内存&#34;&gt;CPU与内存&lt;/h2&gt;
+&lt;h2 id=&#34;tcpip&#34;&gt;TCP/IP&lt;/h2&gt;
+&lt;h3 id=&#34;网络协议&#34;&gt;网络协议&lt;/h3&gt;
+&lt;h3 id=&#34;ip协议&#34;&gt;IP协议&lt;/h3&gt;
+&lt;h3 id=&#34;tcp建立连接&#34;&gt;TCP建立连接&lt;/h3&gt;
+&lt;h3 id=&#34;tcp断开连接&#34;&gt;TCP断开连接&lt;/h3&gt;
+&lt;h3 id=&#34;连接池&#34;&gt;连接池&lt;/h3&gt;
+&lt;h2 id=&#34;信息安全&#34;&gt;信息安全&lt;/h2&gt;
+&lt;h3 id=&#34;黑客与安全&#34;&gt;黑客与安全&lt;/h3&gt;
+&lt;h3 id=&#34;sql注入&#34;&gt;SQL注入&lt;/h3&gt;
+&lt;h3 id=&#34;xss与csrf&#34;&gt;XSS与CSRF&lt;/h3&gt;
+&lt;h3 id=&#34;csrf&#34;&gt;CSRF&lt;/h3&gt;
+&lt;h3 id=&#34;https&#34;&gt;HTTPS&lt;/h3&gt;
+&lt;h2 id=&#34;编程语言的发展&#34;&gt;编程语言的发展&lt;/h2&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/coding/">Coding</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/java/">Java</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/dev/">dev</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>MyBatis-Plus</title>
+                <link>https://congmei86.github.io/posts/mybatis_plus/</link>
+                <guid isPermaLink="true">https://congmei86.github.io/posts/mybatis_plus/</guid>
+                <pubDate>Sat, 17 Oct 2020 20:35:48 &#43;0200</pubDate>
+                
+                    <author>cong.mei86@gmail.com (CongMei)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/mybatis-plus/">MyBatis-Plus</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/brudereins/">BruderEins</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://congmei86.github.io/tags/mysql/">Mysql</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>BruderEins kick off meeting</title>
