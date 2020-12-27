@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Cong&#39;s Bolg</title>
     <subtitle type="html">这是 Mei Cong 的生活与技术博客！</subtitle>
-    <updated>2020-12-26T23:02:47&#43;00:00</updated>
+    <updated>2020-12-27T09:27:57&#43;00:00</updated>
     <id>https://congmei86.github.io/</id>
     <link rel="alternate" type="text/html" href="https://congmei86.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://congmei86.github.io/atom.xml" />
@@ -17,29 +17,94 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.76.3">Hugo</generator>
         <entry>
-            <title type="text">New Post</title>
-            <link rel="alternate" type="text/html" href="https://congmei86.github.io/posts/new-post/" />
-            <id>https://congmei86.github.io/posts/new-post/</id>
-            <updated>2020-12-26T23:50:49&#43;01:00</updated>
-            <published>2020-11-03T08:53:13&#43;01:00</published>
+            <title type="text">Build myself up all the time</title>
+            <link rel="alternate" type="text/html" href="https://congmei86.github.io/posts/build_all_the_time/" />
+            <id>https://congmei86.github.io/posts/build_all_the_time/</id>
+            <updated>2020-12-27T10:27:12&#43;01:00</updated>
+            <published>2020-12-27T08:17:13&#43;01:00</published>
             <author>
                     <name>CongMei</name>
                     <uri>https://wuhansaveeu.com/</uri>
                     <email>cong.mei86@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">新的 这是水水水 瓦窑啥啥啊 333 这个是我想说的沙沙话</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">尝试时时刻刻锤炼自己 还有14分钟就是早上八点半了，我也要开始我一天的技能磨练时刻了。……</summary>
             
-                <content type="html">&lt;h1 id=&#34;新的&#34;&gt;新的&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/congmei86/my_images@main/BlogImages/2020-12-26-16-58-23.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+                <content type="html">&lt;h1 id=&#34;尝试时时刻刻锤炼自己&#34;&gt;尝试时时刻刻锤炼自己&lt;/h1&gt;
 &lt;hr&gt;
+&lt;p&gt;还有14分钟就是早上八点半了，我也要开始我一天的技能磨练时刻了。
+对于现在的我来说，有着诸多磨练方向，语言能力终究是我立足的根本，其次就是项目落地所必须的专业化练习。&lt;/p&gt;
+&lt;p&gt;今天需要落地的内容包括：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;这是水水水&lt;/li&gt;
-&lt;li&gt;瓦窑啥啥啊&lt;/li&gt;
-&lt;li&gt;333&lt;/li&gt;
+&lt;li&gt;Vue电商现在已经听完的内容实地操作一遍。&lt;/li&gt;
+&lt;li&gt;德语也好，英语也好，该继续做的继续。&lt;/li&gt;
+&lt;li&gt;尝试在小红书上发布些帖子，把这期间总结共享下。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;这个是我想说的沙沙话&#34;&gt;这个是我想说的沙沙话&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/congmei86/my_images@main/BlogImages/2020-12-26-16-59-37.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</content>
+&lt;h2 id=&#34;vue电商项目&#34;&gt;Vue电商项目&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;数据库api本地搭建需要完成，其二就是自己总结下流程，按图索骥的去完成视频中的内容。&lt;/p&gt;
+&lt;p&gt;对于现在一些状态我自己评价就是：所有事情都是千头万绪，显得有些杂乱无章。好好在摸索中整理！&lt;/p&gt;
+&lt;p&gt;今天第一个记录的时：mysql数据库备份和还原操作。&lt;/p&gt;
+&lt;h3 id=&#34;还原数据库httpswwwcnblogscomnancyzhup8511389html&#34;&gt;&lt;a href=&#34;https://www.cnblogs.com/nancyzhu/p/8511389.html&#34;&gt;还原数据库&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;系统命令行：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span class=&#34;n&#34;&gt;mysqladmin&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;-uroot&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;-p123456&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;create&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;db_name&lt;/span&gt; 
+&lt;span class=&#34;n&#34;&gt;mysql&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;-uroot&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;-p123456&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;db_name&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;d:&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;\&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;bak&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;\&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;0101&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sql&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;注：在导入备份数据库前，db_name如果没有，是需要创建的； 而且与backup20110527.sql中数据库名是一样的才可以导入。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;安装node后端服务并配置api接口&#34;&gt;安装node后端服务并配置API接口&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;postmann&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;npm install&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;node ./app.js&lt;/code&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/congmei86/my_images@main/BlogImages/2020-12-27-09-36-34.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;项目初始化&#34;&gt;项目初始化&lt;/h3&gt;
+&lt;p&gt;vue cli 脚手架安装&lt;/p&gt;
+&lt;h4 id=&#34;1全局安装过旧版本的-vue-cli1x-或-2x要先卸载它否则跳过此步&#34;&gt;1、全局安装过旧版本的 vue-cli(1.x 或 2.x)要先卸载它，否则跳过此步：&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;npm uninstall vue-cli -g 
+# or 
+yarn global remove vue-cli
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;2安装vue-cli-30&#34;&gt;2、安装vue-cli 3.0&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;npm install -g @vue/cli
+# or
+yarn global add @vue/cli
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;安装成功后查看版本：vue -V(大写的V)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;3初始化项目&#34;&gt;3、初始化项目&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;vue create project-name
+
+Manually select features 是 自定义配置
+
+LESS
+ESLint + Standard config
+Lint on save // 保存就检测
+In dedicated config files // 独立文件放置
+Save this as a preset for future projects? (Y/n) // 是否记录一下以便下次继续使用这套配置。
+
+cd project-name 
+npm run serve 
+http://localhost:8080
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;安装插件和依赖&#34;&gt;安装插件和依赖&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; element-ui&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; axios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;github中上传&#34;&gt;github中上传&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;git remote add origin git@personal:congmei86/vue002.git
+git branch -M main
+git push -u origin main
+&lt;/code&gt;&lt;/pre&gt;</content>
             
             
             
