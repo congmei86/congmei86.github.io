@@ -25,6 +25,16 @@
   <url>
     <loc>https://congmei86.github.io/de/posts/new-post/</loc>
     <lastmod>2020-12-26T23:50:49+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://congmei86.github.io/posts/new-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://congmei86.github.io/de/posts/new-post/"
+                />
   </url>
   
   <url>
