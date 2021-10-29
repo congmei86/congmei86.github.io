@@ -1,8 +1,6 @@
 # de LoveIt
 
 
-
-
 {{< admonition warning >}}
 Sorry, this article has not been completely translated into **French**.
 Welcome to take the time to propose a translation by [:(fas fa-code-branch fa-fw): making a PR](https://github.com/dillonzq/LoveIt/pulls) to the theme!
